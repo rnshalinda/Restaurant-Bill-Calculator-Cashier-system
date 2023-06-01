@@ -57,10 +57,10 @@ To run the program, follow these steps:
 7. Follow the on-screen instructions for item selection, quantity input, and payment processing.
 8. Choose to exit the program or return to the main menu based on your preference.
 
-Please note that the program has certain input requirements and limitations, which are mentioned within the program's prompts and instructions.
+Please note that the program has certain input requirements and limitations, which are mentioned within the program's prompts and instruction comment.
 
-###  Licensed under MIT License : Copyright (c) 2023 H.R. Nirmala Shalinda
-
+### Licensed under MIT License : Copyright (c) 2023 H.R. Nirmala Shalinda
+<img width="130%" alt="license" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/198d5505-14e7-470d-82b0-45daac0afe7f">
 <br>
 
 ## Snaps
@@ -97,4 +97,18 @@ Please note that the program has certain input requirements and limitations, whi
 - **Incase if payment is insufficient :** <br> 
   <img width="55%" alt="15" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/8a0e8283-7e27-4661-b639-37b19d8589dd">
 
+
+## Support and Feedback
+
+If you found this project useful or interesting, consider supporting me by buying me a coffee!
+
+[![Buy me a Ko-fi](https://img.shields.io/badge/Buy%20me%20a-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/rnsha)
+
+Additionally, if you appreciate this project, leaving a star on the GitHub repository would mean a lot to me.
+
+⭐️ [Leave a Star](https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system)
+
+Your support and feedback are greatly appreciated! Thank you for your consideration.
+
+Let's make amazing things together! 🚀
 
