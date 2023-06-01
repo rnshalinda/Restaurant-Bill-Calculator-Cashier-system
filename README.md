@@ -71,7 +71,6 @@ Please note that the program has certain input requirements and limitations, whi
 - **Login prompt :** <br>
   <img align ="top" width="49%" alt="1" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/1a7481a6-9a3a-4146-a5ac-61d936654d7f">
   <img align ="top" width="50%" alt="2" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/49c7822d-0475-4ebb-a5ae-72fe8b5048fe">
-<br>
 
 - **Option menu :** <br>
   <img width="70%" alt="3" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/7d269916-9f93-47cf-aa6f-b9842de96b86">
