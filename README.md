@@ -105,7 +105,7 @@ If you found this project useful or interesting, consider supporting me by buyin
 
 [![Buy me a Ko-fi](https://img.shields.io/badge/Buy%20me%20a-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/rnsha)
 
-Additionally, if you appreciate this project, leaving a star on the GitHub repository would mean a lot to me.
+Additionally, leaving a star on the GitHub repository would mean a lot to me.
 
 ⭐️ [Leave a Star](https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system)
 
