@@ -109,7 +109,7 @@ Additionally, leaving a star on the GitHub repository would mean a lot to me.
 
 ⭐️ [Leave a Star](https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system)
 
-Your support and feedback are greatly appreciated! Thank you for your consideration.
+Your support and feedback are greatly appreciated!
 
 Let's make amazing things together! 🚀
 
