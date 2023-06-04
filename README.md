@@ -70,33 +70,35 @@ Please note that the program has certain input requirements and limitations, whi
 ## Snaps
 
 - **Login prompt :** <br>
-  <img align ="top" width="49%" alt="1" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/1a7481a6-9a3a-4146-a5ac-61d936654d7f">
-  <img align ="top" width="50%" alt="2" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/49c7822d-0475-4ebb-a5ae-72fe8b5048fe">
+  <img align ="top" width="49%" alt="1" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/43e8969e-28f1-4b62-9273-638e4e77876f"> 
+  <img align ="top" width="50%" alt="2" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/fab0adcd-1891-4a1c-953a-5c495d09071d">
 
 - **Option menu :** <br>
-  <img width="70%" alt="3" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/7d269916-9f93-47cf-aa6f-b9842de96b86">
+  <img width="70%" alt="3" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/d6f5bad7-173d-4ce9-a392-ab34dddcee11">  
 <br> 
 
 - **Option (m), Item menu :** <br>
-  <img width="80%" alt="4" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/abf047a8-174f-47af-88ea-841b36dc03a9">
+  <img width="80%" alt="4" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/3898d17f-aa1d-4be6-b1aa-95cea3cd0319">
+  
 <br>
 
 - **Option (b), item purchace and Bill :** <br>
-  <img width="80%" alt="9" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/61071b65-073e-4aa7-b365-d34e995683df">
+  <img width="80%" alt="9" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/ff9f75ab-5364-4b6a-8e74-ff629530d931">
 <br> 
 
 - **Checkout :** <br> 
-  <img width="80%" alt="10" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/1bd1e4dc-a879-41a1-a6be-a277cea1c6df">
-  <img width="85%" alt="11" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/317f470d-5e86-4a82-88ed-0670436e2cfb">
+  <img width="80%" alt="10" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/c4a82ca1-73e7-48a2-93a3-f595e3c36d53">
+  <img width="85%" alt="11" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/149c9e9b-5efd-4c75-b194-617985f2900f">
 <br>
 
 - **Offer items, Buy 5 get 10% off :** <br>
-  <img width="75%" alt="12" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/4a764330-66f3-45d2-9a1f-6b93ff4e0d34">
-  <img width="75%" alt="13" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/86cb566b-9a25-4a47-832d-0dea91c7cbc4">
+  <img width="75%" alt="Offer 1" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/82d57071-6ba9-427f-a366-bb5d75ff7a6f">
+  <img width="75%" alt="13" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/4f88c095-1d36-4cf6-a947-d9156e971ef4">
 <br>
 
+
 - **Incase if payment is insufficient :** <br> 
-  <img width="55%" alt="15" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/8a0e8283-7e27-4661-b639-37b19d8589dd">
+  <img width="55%" alt="15" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/392734cb-0361-4c06-aa93-c41622f494c4">
 
 
 ## Support and Feedback
