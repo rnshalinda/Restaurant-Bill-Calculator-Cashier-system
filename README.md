@@ -64,7 +64,7 @@ Please note that the program has certain input requirements and limitations, whi
 <br>
 
 ### Licensed under MIT License : Copyright (c) 2023 H.R. Nirmala Shalinda
-<img width="130%" alt="license" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/198d5505-14e7-470d-82b0-45daac0afe7f">
+<img width="130%" alt="license" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/7970f022-7ae6-419e-a359-c2b04a6d0c46">
 <br>
 
 ## Snaps
@@ -108,4 +108,5 @@ If you found this project useful or interesting, leaving a star on the GitHub re
 Your support and feedback are greatly appreciated!
 
 Let's make amazing things together! 🚀
+
 
