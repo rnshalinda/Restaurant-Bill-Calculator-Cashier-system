@@ -59,15 +59,15 @@ To run the program, follow these steps:
 
 Please note that the program has certain input requirements and limitations, which are mentioned within the program's prompts and instruction comment.
 
+**Important : In the code please maintain the current line spacing, To help you I have included comments indicating the line numbers for each 'goto' function.**
+<br>
+<br>
+
 ### Licensed under MIT License : Copyright (c) 2023 H.R. Nirmala Shalinda
 <img width="130%" alt="license" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/198d5505-14e7-470d-82b0-45daac0afe7f">
 <br>
-<br>
 
 ## Snaps
-
-**Important : In the code please maintain the current line spacing, To help you I have included comments indicating the line numbers for each 'goto' function.**
-<br>
 
 - **Login prompt :** <br>
   <img align ="top" width="49%" alt="1" src="https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system/assets/133548503/1a7481a6-9a3a-4146-a5ac-61d936654d7f">
@@ -101,11 +101,7 @@ Please note that the program has certain input requirements and limitations, whi
 
 ## Support and Feedback
 
-If you found this project useful or interesting, consider supporting me by buying me a coffee!
-
-[![Buy me a Ko-fi](https://img.shields.io/badge/Buy%20me%20a-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/rnsha)
-
-Additionally, leaving a star on the GitHub repository would mean a lot to me.
+If you found this project useful or interesting, leaving a star on the GitHub repository would mean a lot to me.
 
 ⭐️ [Leave a Star](https://github.com/rnshalinda/Restaurant-Bill-Calculator-Cashier-system)
 
